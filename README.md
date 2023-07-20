@@ -66,6 +66,11 @@ Once a recent version of libbladeRF is installed run the following commands to i
 # ./configure
 # make
 </pre>
+## python PIP installs ##
+
+<pre>
+  pip install kalibrate
+</pre>
 
 ## Running ##
 
